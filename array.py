@@ -1,8 +1,3 @@
-"""
-Python implementation of a dynamic array. 
-
-Functionality is intended to be similar to arraylist.cpp in the C++ folder
-"""
 import ctypes
 from time import time
 import sys
