@@ -1,8 +1,8 @@
 def fibonacci():
   a = 0
   b = 1
-  while True:             # keep going...
-    yield a               # report value, a, during this pass
+  while True:             
+    yield a             
     future = a + b
-    a = b                 # this will be next value reported
-    b = future            # and subsequently this
+    a = b                 
+    b = future           
