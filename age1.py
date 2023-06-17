@@ -1,4 +1,4 @@
-age = -1                    # an initially invalid choice
+age = -1   # an initially invalid choice
 while age <= 0:
   try:
     age = int(input('Enter your age in years: '))
