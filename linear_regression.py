@@ -1,8 +1,3 @@
-"""
-Author: Akorede Adewole, 2022.
-
-Implements Linear Regression algorithm from scratch
-"""
 import numpy as np
 
 
